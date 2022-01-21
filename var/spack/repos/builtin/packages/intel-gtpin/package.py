@@ -21,10 +21,9 @@ class IntelGtpin(Package):
     up new opportunities to perform dynamic, low level workload and HW
     analysis on an Intel GPU, with greater efficiency than other
     current solutions. Some of the GTPin capabilities are integrated
-    into Intel® VTun(TM) Profiler, Intel® Advisor, and the Intel®
+    into Intel® VTune(TM) Profiler, Intel® Advisor, and the Intel®
     Graphics Performance Analyzers (Intel® GPA).
-
-    GTPin is available, along with a set of analysis tools based on
+       GTPin is available, along with a set of analysis tools based on
     the GTPin framework. It also enables more advanced users to
     develop their own analysis tools. GTPin can analyze any GPU
     application. It also collects dynamic profiling data which the
